@@ -44,7 +44,7 @@
 #### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
 </p>
 
 #### 🔧 Tools
