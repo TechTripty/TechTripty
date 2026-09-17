@@ -43,8 +43,7 @@
 
 #### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlserver" />
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> 
 </p>
 
 #### 🔧 Tools
